@@ -1,5 +1,7 @@
 ### Hi, My name is Orr Goren 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/orrgorenn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Forrgorenn&screen_name=orrgorenn)
+
 ## I'm a 3rd year student in Computer Science.
 
 ### Connect with me
@@ -9,13 +11,20 @@
 [<img align="left" alt="orrgorenn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="orrgorenn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+<br />
+
 ### Languages and Tools:
 
-![HTML 5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png =26x)
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />"
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 
-<br><br>
+<br /><br />
 
 [twitter]: https://twitter.com/orrgorenn
 [linkedin]: www.linkedin.com/in/orrgorenn
 [instagram]: http://instagram.com/orrgoren
-[facebook]: https://www.facebook.com/orrgorenn/
+[facebook]: https://www.facebook.com/orrgorenn
