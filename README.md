@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/orrgorenn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Forrgorenn&screen_name=orrgorenn)
 
+![](https://komarev.com/ghpvc/?username=orrgorenn)
+
 ## I'm a 3rd year student in Computer Science.
 
 ### Connect with me
