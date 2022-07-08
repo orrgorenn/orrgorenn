@@ -1,43 +1,47 @@
-### Hi, My name is Orr Goren 👋
+# <p align="center">Hey, I'm Orr! 👋🏼</p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/orrgorenn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Forrgorenn&screen_name=orrgorenn)
-
-![](https://komarev.com/ghpvc/?username=orrgorenn)
-
-## I'm a 3rd year student in Computer Science.
-
-### Connect with me
-
-[<img align="left" alt="orrgorenn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="orrgorenn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="orrgorenn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="orrgorenn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-<br />
-
-### Languages and Tools:
-
-<p float="left">
-    <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-    <img alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-    <img alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-    <img alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
-    <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-    <img alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-    <img alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-    <img alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-    <img alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-    <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-    <img alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-    <img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-    <img alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Learner!;Full+Stack+Developer!;&font=Fira%20Code&center=true&width=380&height=50" />
 </p>
 
-<br /><br />
+<p align="center">
+<a href="https://www.linkedin.com/in/orrgoren/">
+    <img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="30 !important" height="30" style="margin-right:15px!important"></a>
+<a href="https://twitter.com/orrgorenn"><img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="30" height="30" style="margin-right:15px !important"></a>
+<a href="mailto:orrgorenn@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="30" height="30" style="margin-right: 15px !important"></a>
+<a href="https://discordapp.com/users/orrgorenn#1972"><img src="https://img.shields.io/badge/-7289DA?style=&logo=discord&logoColor=white" width="30" height="30"></a>
+</p>
 
-[twitter]: https://twitter.com/orrgorenn
-[linkedin]: https://www.linkedin.com/in/orrgorenn
-[instagram]: http://instagram.com/orrgoren
-[facebook]: https://www.facebook.com/orrgorenn
+## 🖌 About Me
+
+- 👨‍🎓 I am a 3rd year student af B.Sc in Computer Science from Israel. I am passionate about software and full-stack development.
+- 🧑‍💻 I am currently working in ZoomInfo (Nasdaq Listed: ZI) as a Software Engineer.
+
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=Node.js)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Nestjs](https://img.shields.io/badge/-Nest.js-EA2845?style=flat-square&logo=nestjs)
+
+## 📊 Databases:
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat-square&logo=mongodb)
+
+## 🌩 DevOps & Cloud Tools:
+![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
+
+## 💰 Support Me
+<a href="https://www.buymeacoffee.com/orrgoren"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=orrgoren&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+## 📈 Statistics
+![Visitors](https://komarev.com/ghpvc/?username=orrgorenn)
+
+<p align="center">
+    <br>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=orrgorenn&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orrgorenn&langs_count=8&count_private=true&layout=compact&theme=tokyonight"/>
+</p>
