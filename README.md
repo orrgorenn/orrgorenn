@@ -43,5 +43,5 @@
 <p align="center">
     <br>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=orrgorenn&theme=tokyonight"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orrgorenn&langs_count=8&count_private=true&layout=compact&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orrgorenn&langs_count=6&count_private=true&layout=compact&theme=tokyonight"/>
 </p>
