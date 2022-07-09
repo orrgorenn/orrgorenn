@@ -18,7 +18,6 @@
 - 🧑‍💻 I am currently working in ZoomInfo (Nasdaq Listed: ZI) as a Software Engineer.
 
 ## 💻 Tech Stack
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
@@ -27,11 +26,11 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Nestjs](https://img.shields.io/badge/-Nest.js-EA2845?style=flat-square&logo=nestjs)
 
-## 📊 Databases:
+## 📊 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat-square&logo=mongodb)
 
-## 🌩 DevOps & Cloud Tools:
+## 🌩 DevOps & Cloud Tools
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
 
 ## 💰 Support Me
