@@ -15,7 +15,7 @@
 ## 🖌 About Me
 
 - 👨‍🎓 I am a 3rd year student of B.Sc in Computer Science from Israel. I am passionate about software and full-stack development.
-- 🧑‍💻 I am currently working in ZoomInfo (Nasdaq Listed: ZI) as a Software Engineer.
+- 🧑‍💻 I am currently working in ZoomInfo (Nasdaq Listed: ZI) as a Backend Engineer.
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
