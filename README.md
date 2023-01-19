@@ -1,7 +1,7 @@
 # <p align="center">Hey, I'm Orr! 👋🏼</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Learner!;Full+Stack+Developer!;Open+Source+Contributer!;&font=Fira%20Code&center=true&width=380&height=50" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Learner!;Backend+Developer!;Open+Source+Contributer!;&font=Fira%20Code&center=true&width=380&height=50" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🖌 About Me
 
-- 👨‍🎓 I am a 3rd year student of B.Sc in Computer Science from Israel. I am passionate about software and full-stack development.
+- 👨‍🎓 I am a 3rd year student of B.Sc in Computer Science from Israel. I am passionate about software and backend development.
 - 🧑‍💻 I am currently working in ZoomInfo (Nasdaq Listed: ZI) as a Backend Engineer.
 
 ## 💻 Tech Stack
