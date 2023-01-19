@@ -32,6 +32,7 @@
 
 ## 🌩 DevOps & Cloud Tools
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 💰 Support Me
 <a href="https://www.buymeacoffee.com/orrgoren"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=orrgoren&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
