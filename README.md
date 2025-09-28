@@ -24,7 +24,7 @@ MySQL • MongoDB • Redis • Postgres
 
 ## Currently
 
-- 🔭 Working on backend systems at ZoomInfo
+- 🔭 Working on backend systems at Pixellot
 - 🌱 Learning cloud architecture and microservices
 - 💬 Ask me about backend development, APIs, and system design
 
